@@ -1,0 +1,65 @@
+    1  mkdir test
+    2  ls
+    3  mkdir tutorial_linux
+    4  cd tutorial_linux
+    5  ls
+    6  cd/
+    7  cd..
+    8  pwd
+    9  cd ..
+   10  cd tutorial_linux
+   11  mkdir a b c d e
+   12  ls
+   13  ls -l
+   14  touch file_1
+   15  ls -l
+   16  mkdir my_directory
+   17  touch file_2
+   18  touch file_3
+   19  touch my_file
+   20  ls
+   21  touch text_file.txt
+   22  ls
+   23  cat text_file.txt
+   24  cat text_file.txt
+   25  wc -l text_file.txt
+   26  ls > list_of_file.txt
+   27  cat list_of_file.txt
+   28  wc -llist_of_file.txt
+   29  wc -l list_of_file.txt
+   30  ls | wc -l
+   31  ls /c/Program | wc -l
+   32  ps
+   33  ls file*
+   34  cd .
+   35  pwd
+   36  ls unix*
+   37  mkdir MyNewExcitingProject
+   38  cd MyNewExcitingProject
+   39  ls
+   40  ls -a
+   41  git status
+   42  git init
+   43  sit status
+   44  git status
+   45  git add .
+   46  git status
+   47  git commiit -m "First commit of my files"
+   48* git commit -m "First commit of 
+   49  git config --global user.name "Mix"
+   50  git config --global user.name "awr5691"
+   51  git config --global user.email "awr5691@gmail.com"
+   52  git commiit -m "First commit of my files"
+   53  git commit -m "First commit of my files"
+   54  git log
+   55  git status
+   56  git diff
+   57  git add .
+   58  git status
+   59  git commit -m "Some new lines in first file"
+   60  git  log
+   61  git status
+   62  git status
+   63  git checkout -- .
+   64  history
+   65  history > git_commands.txt
