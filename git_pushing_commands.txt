@@ -1,0 +1,15 @@
+   18  git status
+   19  git add .
+   20  git commit -m "DOc_Sauve"
+   21  git push
+   22  git push
+   23  git push
+   24  ls
+   25  cat git_commands.txt 
+   26  git status
+   27  clear
+   28  history
+   29  history | less
+   30  history | tail
+   31  history | tail -15
+   32  history | tail -15 > git_pushing_commands.txt
